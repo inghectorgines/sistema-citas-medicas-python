@@ -1,3 +1,6 @@
+## Descargo y procedo a revisar y calificar.
+
+
 print("\nOscar Alejandro Meza Avendaño")
 print("9° A")
 print("Desarrollo para Dispositivos Inteligentes")
